@@ -1,0 +1,13 @@
+D:\C# Fundamentals\Lists-MoreExercise\04.MixedUpLists\bin\Debug\netcoreapp3.1\04.DrumSet.exe
+D:\C# Fundamentals\Lists-MoreExercise\04.MixedUpLists\bin\Debug\netcoreapp3.1\04.DrumSet.deps.json
+D:\C# Fundamentals\Lists-MoreExercise\04.MixedUpLists\bin\Debug\netcoreapp3.1\04.DrumSet.runtimeconfig.json
+D:\C# Fundamentals\Lists-MoreExercise\04.MixedUpLists\bin\Debug\netcoreapp3.1\04.DrumSet.runtimeconfig.dev.json
+D:\C# Fundamentals\Lists-MoreExercise\04.MixedUpLists\bin\Debug\netcoreapp3.1\04.DrumSet.dll
+D:\C# Fundamentals\Lists-MoreExercise\04.MixedUpLists\bin\Debug\netcoreapp3.1\04.DrumSet.pdb
+D:\C# Fundamentals\Lists-MoreExercise\04.MixedUpLists\obj\Debug\netcoreapp3.1\04.DrumSet.csprojAssemblyReference.cache
+D:\C# Fundamentals\Lists-MoreExercise\04.MixedUpLists\obj\Debug\netcoreapp3.1\04.DrumSet.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Lists-MoreExercise\04.MixedUpLists\obj\Debug\netcoreapp3.1\04.DrumSet.AssemblyInfo.cs
+D:\C# Fundamentals\Lists-MoreExercise\04.MixedUpLists\obj\Debug\netcoreapp3.1\04.DrumSet.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Lists-MoreExercise\04.MixedUpLists\obj\Debug\netcoreapp3.1\04.DrumSet.dll
+D:\C# Fundamentals\Lists-MoreExercise\04.MixedUpLists\obj\Debug\netcoreapp3.1\04.DrumSet.pdb
+D:\C# Fundamentals\Lists-MoreExercise\04.MixedUpLists\obj\Debug\netcoreapp3.1\04.DrumSet.genruntimeconfig.cache

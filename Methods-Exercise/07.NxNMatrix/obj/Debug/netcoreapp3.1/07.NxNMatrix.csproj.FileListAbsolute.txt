@@ -1,0 +1,13 @@
+D:\C# Fundamentals\Methods-Exercise\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.exe
+D:\C# Fundamentals\Methods-Exercise\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.deps.json
+D:\C# Fundamentals\Methods-Exercise\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.runtimeconfig.json
+D:\C# Fundamentals\Methods-Exercise\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.runtimeconfig.dev.json
+D:\C# Fundamentals\Methods-Exercise\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.dll
+D:\C# Fundamentals\Methods-Exercise\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.pdb
+D:\C# Fundamentals\Methods-Exercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.csprojAssemblyReference.cache
+D:\C# Fundamentals\Methods-Exercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Methods-Exercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.AssemblyInfo.cs
+D:\C# Fundamentals\Methods-Exercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Methods-Exercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.dll
+D:\C# Fundamentals\Methods-Exercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.pdb
+D:\C# Fundamentals\Methods-Exercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.genruntimeconfig.cache

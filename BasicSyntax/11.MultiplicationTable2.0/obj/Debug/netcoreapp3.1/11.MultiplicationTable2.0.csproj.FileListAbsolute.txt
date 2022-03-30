@@ -1,0 +1,12 @@
+D:\C# Fundamentals\BasicSyntax\11.MultiplicationTable2.0\bin\Debug\netcoreapp3.1\11.MultiplicationTable2.0.exe
+D:\C# Fundamentals\BasicSyntax\11.MultiplicationTable2.0\bin\Debug\netcoreapp3.1\11.MultiplicationTable2.0.deps.json
+D:\C# Fundamentals\BasicSyntax\11.MultiplicationTable2.0\bin\Debug\netcoreapp3.1\11.MultiplicationTable2.0.runtimeconfig.json
+D:\C# Fundamentals\BasicSyntax\11.MultiplicationTable2.0\bin\Debug\netcoreapp3.1\11.MultiplicationTable2.0.runtimeconfig.dev.json
+D:\C# Fundamentals\BasicSyntax\11.MultiplicationTable2.0\bin\Debug\netcoreapp3.1\11.MultiplicationTable2.0.dll
+D:\C# Fundamentals\BasicSyntax\11.MultiplicationTable2.0\bin\Debug\netcoreapp3.1\11.MultiplicationTable2.0.pdb
+D:\C# Fundamentals\BasicSyntax\11.MultiplicationTable2.0\obj\Debug\netcoreapp3.1\11.MultiplicationTable2.0.AssemblyInfoInputs.cache
+D:\C# Fundamentals\BasicSyntax\11.MultiplicationTable2.0\obj\Debug\netcoreapp3.1\11.MultiplicationTable2.0.AssemblyInfo.cs
+D:\C# Fundamentals\BasicSyntax\11.MultiplicationTable2.0\obj\Debug\netcoreapp3.1\11.MultiplicationTable2.0.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\BasicSyntax\11.MultiplicationTable2.0\obj\Debug\netcoreapp3.1\11.MultiplicationTable2.0.dll
+D:\C# Fundamentals\BasicSyntax\11.MultiplicationTable2.0\obj\Debug\netcoreapp3.1\11.MultiplicationTable2.0.pdb
+D:\C# Fundamentals\BasicSyntax\11.MultiplicationTable2.0\obj\Debug\netcoreapp3.1\11.MultiplicationTable2.0.genruntimeconfig.cache

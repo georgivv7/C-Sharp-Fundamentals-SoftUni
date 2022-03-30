@@ -1,0 +1,12 @@
+D:\C# Fundamentals\Metods-More-Exercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.exe
+D:\C# Fundamentals\Metods-More-Exercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.deps.json
+D:\C# Fundamentals\Metods-More-Exercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.runtimeconfig.json
+D:\C# Fundamentals\Metods-More-Exercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.runtimeconfig.dev.json
+D:\C# Fundamentals\Metods-More-Exercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.dll
+D:\C# Fundamentals\Metods-More-Exercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.pdb
+D:\C# Fundamentals\Metods-More-Exercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Metods-More-Exercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.AssemblyInfo.cs
+D:\C# Fundamentals\Metods-More-Exercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Metods-More-Exercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.dll
+D:\C# Fundamentals\Metods-More-Exercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.pdb
+D:\C# Fundamentals\Metods-More-Exercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.genruntimeconfig.cache

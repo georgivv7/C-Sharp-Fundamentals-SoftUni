@@ -1,0 +1,13 @@
+D:\C# Fundamentals\04. ProgrammingFundamentals-FinalExam\02. FancyBarcodes\bin\Debug\netcoreapp3.1\02. FancyBarcodes.exe
+D:\C# Fundamentals\04. ProgrammingFundamentals-FinalExam\02. FancyBarcodes\bin\Debug\netcoreapp3.1\02. FancyBarcodes.deps.json
+D:\C# Fundamentals\04. ProgrammingFundamentals-FinalExam\02. FancyBarcodes\bin\Debug\netcoreapp3.1\02. FancyBarcodes.runtimeconfig.json
+D:\C# Fundamentals\04. ProgrammingFundamentals-FinalExam\02. FancyBarcodes\bin\Debug\netcoreapp3.1\02. FancyBarcodes.runtimeconfig.dev.json
+D:\C# Fundamentals\04. ProgrammingFundamentals-FinalExam\02. FancyBarcodes\bin\Debug\netcoreapp3.1\02. FancyBarcodes.dll
+D:\C# Fundamentals\04. ProgrammingFundamentals-FinalExam\02. FancyBarcodes\bin\Debug\netcoreapp3.1\02. FancyBarcodes.pdb
+D:\C# Fundamentals\04. ProgrammingFundamentals-FinalExam\02. FancyBarcodes\obj\Debug\netcoreapp3.1\02. FancyBarcodes.csprojAssemblyReference.cache
+D:\C# Fundamentals\04. ProgrammingFundamentals-FinalExam\02. FancyBarcodes\obj\Debug\netcoreapp3.1\02. FancyBarcodes.AssemblyInfoInputs.cache
+D:\C# Fundamentals\04. ProgrammingFundamentals-FinalExam\02. FancyBarcodes\obj\Debug\netcoreapp3.1\02. FancyBarcodes.AssemblyInfo.cs
+D:\C# Fundamentals\04. ProgrammingFundamentals-FinalExam\02. FancyBarcodes\obj\Debug\netcoreapp3.1\02. FancyBarcodes.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\04. ProgrammingFundamentals-FinalExam\02. FancyBarcodes\obj\Debug\netcoreapp3.1\02. FancyBarcodes.dll
+D:\C# Fundamentals\04. ProgrammingFundamentals-FinalExam\02. FancyBarcodes\obj\Debug\netcoreapp3.1\02. FancyBarcodes.pdb
+D:\C# Fundamentals\04. ProgrammingFundamentals-FinalExam\02. FancyBarcodes\obj\Debug\netcoreapp3.1\02. FancyBarcodes.genruntimeconfig.cache

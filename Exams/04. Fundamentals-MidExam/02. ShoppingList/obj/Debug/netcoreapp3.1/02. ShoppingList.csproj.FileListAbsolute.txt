@@ -1,0 +1,13 @@
+D:\C# Fundamentals\04. Fundamentals-MidExam\02. ShoppingList\bin\Debug\netcoreapp3.1\02. ShoppingList.exe
+D:\C# Fundamentals\04. Fundamentals-MidExam\02. ShoppingList\bin\Debug\netcoreapp3.1\02. ShoppingList.deps.json
+D:\C# Fundamentals\04. Fundamentals-MidExam\02. ShoppingList\bin\Debug\netcoreapp3.1\02. ShoppingList.runtimeconfig.json
+D:\C# Fundamentals\04. Fundamentals-MidExam\02. ShoppingList\bin\Debug\netcoreapp3.1\02. ShoppingList.runtimeconfig.dev.json
+D:\C# Fundamentals\04. Fundamentals-MidExam\02. ShoppingList\bin\Debug\netcoreapp3.1\02. ShoppingList.dll
+D:\C# Fundamentals\04. Fundamentals-MidExam\02. ShoppingList\bin\Debug\netcoreapp3.1\02. ShoppingList.pdb
+D:\C# Fundamentals\04. Fundamentals-MidExam\02. ShoppingList\obj\Debug\netcoreapp3.1\02. ShoppingList.csprojAssemblyReference.cache
+D:\C# Fundamentals\04. Fundamentals-MidExam\02. ShoppingList\obj\Debug\netcoreapp3.1\02. ShoppingList.AssemblyInfoInputs.cache
+D:\C# Fundamentals\04. Fundamentals-MidExam\02. ShoppingList\obj\Debug\netcoreapp3.1\02. ShoppingList.AssemblyInfo.cs
+D:\C# Fundamentals\04. Fundamentals-MidExam\02. ShoppingList\obj\Debug\netcoreapp3.1\02. ShoppingList.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\04. Fundamentals-MidExam\02. ShoppingList\obj\Debug\netcoreapp3.1\02. ShoppingList.dll
+D:\C# Fundamentals\04. Fundamentals-MidExam\02. ShoppingList\obj\Debug\netcoreapp3.1\02. ShoppingList.pdb
+D:\C# Fundamentals\04. Fundamentals-MidExam\02. ShoppingList\obj\Debug\netcoreapp3.1\02. ShoppingList.genruntimeconfig.cache

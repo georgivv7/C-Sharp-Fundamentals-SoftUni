@@ -1,0 +1,13 @@
+D:\C# Fundamentals\DataTypes-Variables-Lab\08.TownInfo\bin\Debug\netcoreapp3.1\08.TownInfo.exe
+D:\C# Fundamentals\DataTypes-Variables-Lab\08.TownInfo\bin\Debug\netcoreapp3.1\08.TownInfo.deps.json
+D:\C# Fundamentals\DataTypes-Variables-Lab\08.TownInfo\bin\Debug\netcoreapp3.1\08.TownInfo.runtimeconfig.json
+D:\C# Fundamentals\DataTypes-Variables-Lab\08.TownInfo\bin\Debug\netcoreapp3.1\08.TownInfo.runtimeconfig.dev.json
+D:\C# Fundamentals\DataTypes-Variables-Lab\08.TownInfo\bin\Debug\netcoreapp3.1\08.TownInfo.dll
+D:\C# Fundamentals\DataTypes-Variables-Lab\08.TownInfo\bin\Debug\netcoreapp3.1\08.TownInfo.pdb
+D:\C# Fundamentals\DataTypes-Variables-Lab\08.TownInfo\obj\Debug\netcoreapp3.1\08.TownInfo.csprojAssemblyReference.cache
+D:\C# Fundamentals\DataTypes-Variables-Lab\08.TownInfo\obj\Debug\netcoreapp3.1\08.TownInfo.AssemblyInfoInputs.cache
+D:\C# Fundamentals\DataTypes-Variables-Lab\08.TownInfo\obj\Debug\netcoreapp3.1\08.TownInfo.AssemblyInfo.cs
+D:\C# Fundamentals\DataTypes-Variables-Lab\08.TownInfo\obj\Debug\netcoreapp3.1\08.TownInfo.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\DataTypes-Variables-Lab\08.TownInfo\obj\Debug\netcoreapp3.1\08.TownInfo.dll
+D:\C# Fundamentals\DataTypes-Variables-Lab\08.TownInfo\obj\Debug\netcoreapp3.1\08.TownInfo.pdb
+D:\C# Fundamentals\DataTypes-Variables-Lab\08.TownInfo\obj\Debug\netcoreapp3.1\08.TownInfo.genruntimeconfig.cache

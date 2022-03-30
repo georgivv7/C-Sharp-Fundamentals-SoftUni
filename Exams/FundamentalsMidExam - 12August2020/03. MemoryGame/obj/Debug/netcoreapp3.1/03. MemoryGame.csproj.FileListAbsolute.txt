@@ -1,0 +1,13 @@
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\03. MemoryGame\bin\Debug\netcoreapp3.1\03. MemoryGame.exe
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\03. MemoryGame\bin\Debug\netcoreapp3.1\03. MemoryGame.deps.json
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\03. MemoryGame\bin\Debug\netcoreapp3.1\03. MemoryGame.runtimeconfig.json
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\03. MemoryGame\bin\Debug\netcoreapp3.1\03. MemoryGame.runtimeconfig.dev.json
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\03. MemoryGame\bin\Debug\netcoreapp3.1\03. MemoryGame.dll
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\03. MemoryGame\bin\Debug\netcoreapp3.1\03. MemoryGame.pdb
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\03. MemoryGame\obj\Debug\netcoreapp3.1\03. MemoryGame.csprojAssemblyReference.cache
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\03. MemoryGame\obj\Debug\netcoreapp3.1\03. MemoryGame.AssemblyInfoInputs.cache
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\03. MemoryGame\obj\Debug\netcoreapp3.1\03. MemoryGame.AssemblyInfo.cs
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\03. MemoryGame\obj\Debug\netcoreapp3.1\03. MemoryGame.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\03. MemoryGame\obj\Debug\netcoreapp3.1\03. MemoryGame.dll
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\03. MemoryGame\obj\Debug\netcoreapp3.1\03. MemoryGame.pdb
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\03. MemoryGame\obj\Debug\netcoreapp3.1\03. MemoryGame.genruntimeconfig.cache

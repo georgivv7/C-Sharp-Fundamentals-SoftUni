@@ -1,0 +1,12 @@
+D:\C# Fundamentals\DataTypes-Variables-Lab\11.RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.exe
+D:\C# Fundamentals\DataTypes-Variables-Lab\11.RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.deps.json
+D:\C# Fundamentals\DataTypes-Variables-Lab\11.RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.runtimeconfig.json
+D:\C# Fundamentals\DataTypes-Variables-Lab\11.RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.runtimeconfig.dev.json
+D:\C# Fundamentals\DataTypes-Variables-Lab\11.RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.dll
+D:\C# Fundamentals\DataTypes-Variables-Lab\11.RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.pdb
+D:\C# Fundamentals\DataTypes-Variables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.AssemblyInfoInputs.cache
+D:\C# Fundamentals\DataTypes-Variables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.AssemblyInfo.cs
+D:\C# Fundamentals\DataTypes-Variables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\DataTypes-Variables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.dll
+D:\C# Fundamentals\DataTypes-Variables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.pdb
+D:\C# Fundamentals\DataTypes-Variables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\C# Fundamentals\BasicSyntax\08.DivisibleBy3\bin\Debug\netcoreapp3.1\08.DivisibleBy3.exe
+D:\C# Fundamentals\BasicSyntax\08.DivisibleBy3\bin\Debug\netcoreapp3.1\08.DivisibleBy3.deps.json
+D:\C# Fundamentals\BasicSyntax\08.DivisibleBy3\bin\Debug\netcoreapp3.1\08.DivisibleBy3.runtimeconfig.json
+D:\C# Fundamentals\BasicSyntax\08.DivisibleBy3\bin\Debug\netcoreapp3.1\08.DivisibleBy3.runtimeconfig.dev.json
+D:\C# Fundamentals\BasicSyntax\08.DivisibleBy3\bin\Debug\netcoreapp3.1\08.DivisibleBy3.dll
+D:\C# Fundamentals\BasicSyntax\08.DivisibleBy3\bin\Debug\netcoreapp3.1\08.DivisibleBy3.pdb
+D:\C# Fundamentals\BasicSyntax\08.DivisibleBy3\obj\Debug\netcoreapp3.1\08.DivisibleBy3.AssemblyInfoInputs.cache
+D:\C# Fundamentals\BasicSyntax\08.DivisibleBy3\obj\Debug\netcoreapp3.1\08.DivisibleBy3.AssemblyInfo.cs
+D:\C# Fundamentals\BasicSyntax\08.DivisibleBy3\obj\Debug\netcoreapp3.1\08.DivisibleBy3.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\BasicSyntax\08.DivisibleBy3\obj\Debug\netcoreapp3.1\08.DivisibleBy3.dll
+D:\C# Fundamentals\BasicSyntax\08.DivisibleBy3\obj\Debug\netcoreapp3.1\08.DivisibleBy3.pdb
+D:\C# Fundamentals\BasicSyntax\08.DivisibleBy3\obj\Debug\netcoreapp3.1\08.DivisibleBy3.genruntimeconfig.cache

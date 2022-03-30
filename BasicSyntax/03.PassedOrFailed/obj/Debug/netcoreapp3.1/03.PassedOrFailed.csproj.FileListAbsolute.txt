@@ -1,0 +1,13 @@
+D:\C# Fundamentals\BasicSyntax\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.exe
+D:\C# Fundamentals\BasicSyntax\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.deps.json
+D:\C# Fundamentals\BasicSyntax\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.runtimeconfig.json
+D:\C# Fundamentals\BasicSyntax\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.runtimeconfig.dev.json
+D:\C# Fundamentals\BasicSyntax\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.dll
+D:\C# Fundamentals\BasicSyntax\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.pdb
+D:\C# Fundamentals\BasicSyntax\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.csprojAssemblyReference.cache
+D:\C# Fundamentals\BasicSyntax\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.AssemblyInfoInputs.cache
+D:\C# Fundamentals\BasicSyntax\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.AssemblyInfo.cs
+D:\C# Fundamentals\BasicSyntax\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\BasicSyntax\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.dll
+D:\C# Fundamentals\BasicSyntax\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.pdb
+D:\C# Fundamentals\BasicSyntax\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.genruntimeconfig.cache

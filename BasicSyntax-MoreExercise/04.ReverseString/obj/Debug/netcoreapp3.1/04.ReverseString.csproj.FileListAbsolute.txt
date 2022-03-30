@@ -1,0 +1,12 @@
+D:\C# Fundamentals\BasicSyntax-MoreExercise\04.ReverseString\bin\Debug\netcoreapp3.1\04.ReverseString.exe
+D:\C# Fundamentals\BasicSyntax-MoreExercise\04.ReverseString\bin\Debug\netcoreapp3.1\04.ReverseString.deps.json
+D:\C# Fundamentals\BasicSyntax-MoreExercise\04.ReverseString\bin\Debug\netcoreapp3.1\04.ReverseString.runtimeconfig.json
+D:\C# Fundamentals\BasicSyntax-MoreExercise\04.ReverseString\bin\Debug\netcoreapp3.1\04.ReverseString.runtimeconfig.dev.json
+D:\C# Fundamentals\BasicSyntax-MoreExercise\04.ReverseString\bin\Debug\netcoreapp3.1\04.ReverseString.dll
+D:\C# Fundamentals\BasicSyntax-MoreExercise\04.ReverseString\bin\Debug\netcoreapp3.1\04.ReverseString.pdb
+D:\C# Fundamentals\BasicSyntax-MoreExercise\04.ReverseString\obj\Debug\netcoreapp3.1\04.ReverseString.AssemblyInfoInputs.cache
+D:\C# Fundamentals\BasicSyntax-MoreExercise\04.ReverseString\obj\Debug\netcoreapp3.1\04.ReverseString.AssemblyInfo.cs
+D:\C# Fundamentals\BasicSyntax-MoreExercise\04.ReverseString\obj\Debug\netcoreapp3.1\04.ReverseString.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\BasicSyntax-MoreExercise\04.ReverseString\obj\Debug\netcoreapp3.1\04.ReverseString.dll
+D:\C# Fundamentals\BasicSyntax-MoreExercise\04.ReverseString\obj\Debug\netcoreapp3.1\04.ReverseString.pdb
+D:\C# Fundamentals\BasicSyntax-MoreExercise\04.ReverseString\obj\Debug\netcoreapp3.1\04.ReverseString.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Fundamentals\Arrays-MoreExercise\01.EncryptSortPrintArray\bin\Debug\netcoreapp3.1\01.EncryptSortPrintArray.exe
+D:\C# Fundamentals\Arrays-MoreExercise\01.EncryptSortPrintArray\bin\Debug\netcoreapp3.1\01.EncryptSortPrintArray.deps.json
+D:\C# Fundamentals\Arrays-MoreExercise\01.EncryptSortPrintArray\bin\Debug\netcoreapp3.1\01.EncryptSortPrintArray.runtimeconfig.json
+D:\C# Fundamentals\Arrays-MoreExercise\01.EncryptSortPrintArray\bin\Debug\netcoreapp3.1\01.EncryptSortPrintArray.runtimeconfig.dev.json
+D:\C# Fundamentals\Arrays-MoreExercise\01.EncryptSortPrintArray\bin\Debug\netcoreapp3.1\01.EncryptSortPrintArray.dll
+D:\C# Fundamentals\Arrays-MoreExercise\01.EncryptSortPrintArray\bin\Debug\netcoreapp3.1\01.EncryptSortPrintArray.pdb
+D:\C# Fundamentals\Arrays-MoreExercise\01.EncryptSortPrintArray\obj\Debug\netcoreapp3.1\01.EncryptSortPrintArray.csprojAssemblyReference.cache
+D:\C# Fundamentals\Arrays-MoreExercise\01.EncryptSortPrintArray\obj\Debug\netcoreapp3.1\01.EncryptSortPrintArray.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Arrays-MoreExercise\01.EncryptSortPrintArray\obj\Debug\netcoreapp3.1\01.EncryptSortPrintArray.AssemblyInfo.cs
+D:\C# Fundamentals\Arrays-MoreExercise\01.EncryptSortPrintArray\obj\Debug\netcoreapp3.1\01.EncryptSortPrintArray.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Arrays-MoreExercise\01.EncryptSortPrintArray\obj\Debug\netcoreapp3.1\01.EncryptSortPrintArray.dll
+D:\C# Fundamentals\Arrays-MoreExercise\01.EncryptSortPrintArray\obj\Debug\netcoreapp3.1\01.EncryptSortPrintArray.pdb
+D:\C# Fundamentals\Arrays-MoreExercise\01.EncryptSortPrintArray\obj\Debug\netcoreapp3.1\01.EncryptSortPrintArray.genruntimeconfig.cache

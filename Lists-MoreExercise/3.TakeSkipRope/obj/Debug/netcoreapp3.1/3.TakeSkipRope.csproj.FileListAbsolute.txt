@@ -1,0 +1,12 @@
+D:\C# Fundamentals\Lists-MoreExercise\3.TakeSkipRope\bin\Debug\netcoreapp3.1\3.TakeSkipRope.exe
+D:\C# Fundamentals\Lists-MoreExercise\3.TakeSkipRope\bin\Debug\netcoreapp3.1\3.TakeSkipRope.deps.json
+D:\C# Fundamentals\Lists-MoreExercise\3.TakeSkipRope\bin\Debug\netcoreapp3.1\3.TakeSkipRope.runtimeconfig.json
+D:\C# Fundamentals\Lists-MoreExercise\3.TakeSkipRope\bin\Debug\netcoreapp3.1\3.TakeSkipRope.runtimeconfig.dev.json
+D:\C# Fundamentals\Lists-MoreExercise\3.TakeSkipRope\bin\Debug\netcoreapp3.1\3.TakeSkipRope.dll
+D:\C# Fundamentals\Lists-MoreExercise\3.TakeSkipRope\bin\Debug\netcoreapp3.1\3.TakeSkipRope.pdb
+D:\C# Fundamentals\Lists-MoreExercise\3.TakeSkipRope\obj\Debug\netcoreapp3.1\3.TakeSkipRope.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Lists-MoreExercise\3.TakeSkipRope\obj\Debug\netcoreapp3.1\3.TakeSkipRope.AssemblyInfo.cs
+D:\C# Fundamentals\Lists-MoreExercise\3.TakeSkipRope\obj\Debug\netcoreapp3.1\3.TakeSkipRope.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Lists-MoreExercise\3.TakeSkipRope\obj\Debug\netcoreapp3.1\3.TakeSkipRope.dll
+D:\C# Fundamentals\Lists-MoreExercise\3.TakeSkipRope\obj\Debug\netcoreapp3.1\3.TakeSkipRope.pdb
+D:\C# Fundamentals\Lists-MoreExercise\3.TakeSkipRope\obj\Debug\netcoreapp3.1\3.TakeSkipRope.genruntimeconfig.cache

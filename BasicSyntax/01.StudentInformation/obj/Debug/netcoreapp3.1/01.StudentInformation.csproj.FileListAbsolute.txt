@@ -1,0 +1,13 @@
+D:\C# Fundamentals\BasicSyntax\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.exe
+D:\C# Fundamentals\BasicSyntax\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.deps.json
+D:\C# Fundamentals\BasicSyntax\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.runtimeconfig.json
+D:\C# Fundamentals\BasicSyntax\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.runtimeconfig.dev.json
+D:\C# Fundamentals\BasicSyntax\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.dll
+D:\C# Fundamentals\BasicSyntax\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.pdb
+D:\C# Fundamentals\BasicSyntax\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.csprojAssemblyReference.cache
+D:\C# Fundamentals\BasicSyntax\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.AssemblyInfoInputs.cache
+D:\C# Fundamentals\BasicSyntax\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.AssemblyInfo.cs
+D:\C# Fundamentals\BasicSyntax\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\BasicSyntax\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.dll
+D:\C# Fundamentals\BasicSyntax\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.pdb
+D:\C# Fundamentals\BasicSyntax\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.genruntimeconfig.cache

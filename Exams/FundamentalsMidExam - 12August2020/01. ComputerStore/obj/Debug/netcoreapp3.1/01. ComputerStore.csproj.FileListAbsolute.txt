@@ -1,0 +1,13 @@
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\01. ComputerStore\bin\Debug\netcoreapp3.1\01. ComputerStore.exe
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\01. ComputerStore\bin\Debug\netcoreapp3.1\01. ComputerStore.deps.json
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\01. ComputerStore\bin\Debug\netcoreapp3.1\01. ComputerStore.runtimeconfig.json
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\01. ComputerStore\bin\Debug\netcoreapp3.1\01. ComputerStore.runtimeconfig.dev.json
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\01. ComputerStore\bin\Debug\netcoreapp3.1\01. ComputerStore.dll
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\01. ComputerStore\bin\Debug\netcoreapp3.1\01. ComputerStore.pdb
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\01. ComputerStore\obj\Debug\netcoreapp3.1\01. ComputerStore.csprojAssemblyReference.cache
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\01. ComputerStore\obj\Debug\netcoreapp3.1\01. ComputerStore.AssemblyInfoInputs.cache
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\01. ComputerStore\obj\Debug\netcoreapp3.1\01. ComputerStore.AssemblyInfo.cs
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\01. ComputerStore\obj\Debug\netcoreapp3.1\01. ComputerStore.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\01. ComputerStore\obj\Debug\netcoreapp3.1\01. ComputerStore.dll
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\01. ComputerStore\obj\Debug\netcoreapp3.1\01. ComputerStore.pdb
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\01. ComputerStore\obj\Debug\netcoreapp3.1\01. ComputerStore.genruntimeconfig.cache

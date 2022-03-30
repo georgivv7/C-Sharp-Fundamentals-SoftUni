@@ -1,0 +1,12 @@
+D:\C# Fundamentals\BasicSyntax-Exercise\04.PrintSum\bin\Debug\netcoreapp3.1\04.PrintSum.exe
+D:\C# Fundamentals\BasicSyntax-Exercise\04.PrintSum\bin\Debug\netcoreapp3.1\04.PrintSum.deps.json
+D:\C# Fundamentals\BasicSyntax-Exercise\04.PrintSum\bin\Debug\netcoreapp3.1\04.PrintSum.runtimeconfig.json
+D:\C# Fundamentals\BasicSyntax-Exercise\04.PrintSum\bin\Debug\netcoreapp3.1\04.PrintSum.runtimeconfig.dev.json
+D:\C# Fundamentals\BasicSyntax-Exercise\04.PrintSum\bin\Debug\netcoreapp3.1\04.PrintSum.dll
+D:\C# Fundamentals\BasicSyntax-Exercise\04.PrintSum\bin\Debug\netcoreapp3.1\04.PrintSum.pdb
+D:\C# Fundamentals\BasicSyntax-Exercise\04.PrintSum\obj\Debug\netcoreapp3.1\04.PrintSum.AssemblyInfoInputs.cache
+D:\C# Fundamentals\BasicSyntax-Exercise\04.PrintSum\obj\Debug\netcoreapp3.1\04.PrintSum.AssemblyInfo.cs
+D:\C# Fundamentals\BasicSyntax-Exercise\04.PrintSum\obj\Debug\netcoreapp3.1\04.PrintSum.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\BasicSyntax-Exercise\04.PrintSum\obj\Debug\netcoreapp3.1\04.PrintSum.dll
+D:\C# Fundamentals\BasicSyntax-Exercise\04.PrintSum\obj\Debug\netcoreapp3.1\04.PrintSum.pdb
+D:\C# Fundamentals\BasicSyntax-Exercise\04.PrintSum\obj\Debug\netcoreapp3.1\04.PrintSum.genruntimeconfig.cache

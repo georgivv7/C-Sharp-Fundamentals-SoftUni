@@ -1,0 +1,13 @@
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\02. DestinationMapper\bin\Debug\netcoreapp3.1\02. DestinationMapper.exe
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\02. DestinationMapper\bin\Debug\netcoreapp3.1\02. DestinationMapper.deps.json
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\02. DestinationMapper\bin\Debug\netcoreapp3.1\02. DestinationMapper.runtimeconfig.json
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\02. DestinationMapper\bin\Debug\netcoreapp3.1\02. DestinationMapper.runtimeconfig.dev.json
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\02. DestinationMapper\bin\Debug\netcoreapp3.1\02. DestinationMapper.dll
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\02. DestinationMapper\bin\Debug\netcoreapp3.1\02. DestinationMapper.pdb
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\02. DestinationMapper\obj\Debug\netcoreapp3.1\02. DestinationMapper.csprojAssemblyReference.cache
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\02. DestinationMapper\obj\Debug\netcoreapp3.1\02. DestinationMapper.AssemblyInfoInputs.cache
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\02. DestinationMapper\obj\Debug\netcoreapp3.1\02. DestinationMapper.AssemblyInfo.cs
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\02. DestinationMapper\obj\Debug\netcoreapp3.1\02. DestinationMapper.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\02. DestinationMapper\obj\Debug\netcoreapp3.1\02. DestinationMapper.dll
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\02. DestinationMapper\obj\Debug\netcoreapp3.1\02. DestinationMapper.pdb
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\02. DestinationMapper\obj\Debug\netcoreapp3.1\02. DestinationMapper.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Fundamentals\04. Fundamentals-MidExam\03. HeartDelivery\bin\Debug\netcoreapp3.1\03. HeartDelivery.exe
+D:\C# Fundamentals\04. Fundamentals-MidExam\03. HeartDelivery\bin\Debug\netcoreapp3.1\03. HeartDelivery.deps.json
+D:\C# Fundamentals\04. Fundamentals-MidExam\03. HeartDelivery\bin\Debug\netcoreapp3.1\03. HeartDelivery.runtimeconfig.json
+D:\C# Fundamentals\04. Fundamentals-MidExam\03. HeartDelivery\bin\Debug\netcoreapp3.1\03. HeartDelivery.runtimeconfig.dev.json
+D:\C# Fundamentals\04. Fundamentals-MidExam\03. HeartDelivery\bin\Debug\netcoreapp3.1\03. HeartDelivery.dll
+D:\C# Fundamentals\04. Fundamentals-MidExam\03. HeartDelivery\bin\Debug\netcoreapp3.1\03. HeartDelivery.pdb
+D:\C# Fundamentals\04. Fundamentals-MidExam\03. HeartDelivery\obj\Debug\netcoreapp3.1\03. HeartDelivery.csprojAssemblyReference.cache
+D:\C# Fundamentals\04. Fundamentals-MidExam\03. HeartDelivery\obj\Debug\netcoreapp3.1\03. HeartDelivery.AssemblyInfoInputs.cache
+D:\C# Fundamentals\04. Fundamentals-MidExam\03. HeartDelivery\obj\Debug\netcoreapp3.1\03. HeartDelivery.AssemblyInfo.cs
+D:\C# Fundamentals\04. Fundamentals-MidExam\03. HeartDelivery\obj\Debug\netcoreapp3.1\03. HeartDelivery.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\04. Fundamentals-MidExam\03. HeartDelivery\obj\Debug\netcoreapp3.1\03. HeartDelivery.dll
+D:\C# Fundamentals\04. Fundamentals-MidExam\03. HeartDelivery\obj\Debug\netcoreapp3.1\03. HeartDelivery.pdb
+D:\C# Fundamentals\04. Fundamentals-MidExam\03. HeartDelivery\obj\Debug\netcoreapp3.1\03. HeartDelivery.genruntimeconfig.cache

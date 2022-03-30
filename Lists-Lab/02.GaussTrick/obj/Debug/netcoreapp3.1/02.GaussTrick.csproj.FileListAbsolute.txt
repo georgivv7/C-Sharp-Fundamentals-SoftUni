@@ -1,0 +1,13 @@
+D:\C# Fundamentals\Lists-Lab\02.GaussTrick\bin\Debug\netcoreapp3.1\02.GaussTrick.exe
+D:\C# Fundamentals\Lists-Lab\02.GaussTrick\bin\Debug\netcoreapp3.1\02.GaussTrick.deps.json
+D:\C# Fundamentals\Lists-Lab\02.GaussTrick\bin\Debug\netcoreapp3.1\02.GaussTrick.runtimeconfig.json
+D:\C# Fundamentals\Lists-Lab\02.GaussTrick\bin\Debug\netcoreapp3.1\02.GaussTrick.runtimeconfig.dev.json
+D:\C# Fundamentals\Lists-Lab\02.GaussTrick\bin\Debug\netcoreapp3.1\02.GaussTrick.dll
+D:\C# Fundamentals\Lists-Lab\02.GaussTrick\bin\Debug\netcoreapp3.1\02.GaussTrick.pdb
+D:\C# Fundamentals\Lists-Lab\02.GaussTrick\obj\Debug\netcoreapp3.1\02.GaussTrick.csprojAssemblyReference.cache
+D:\C# Fundamentals\Lists-Lab\02.GaussTrick\obj\Debug\netcoreapp3.1\02.GaussTrick.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Lists-Lab\02.GaussTrick\obj\Debug\netcoreapp3.1\02.GaussTrick.AssemblyInfo.cs
+D:\C# Fundamentals\Lists-Lab\02.GaussTrick\obj\Debug\netcoreapp3.1\02.GaussTrick.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Lists-Lab\02.GaussTrick\obj\Debug\netcoreapp3.1\02.GaussTrick.dll
+D:\C# Fundamentals\Lists-Lab\02.GaussTrick\obj\Debug\netcoreapp3.1\02.GaussTrick.pdb
+D:\C# Fundamentals\Lists-Lab\02.GaussTrick\obj\Debug\netcoreapp3.1\02.GaussTrick.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Fundamentals\BasicSyntax-Exercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.exe
+D:\C# Fundamentals\BasicSyntax-Exercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.deps.json
+D:\C# Fundamentals\BasicSyntax-Exercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.runtimeconfig.json
+D:\C# Fundamentals\BasicSyntax-Exercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.runtimeconfig.dev.json
+D:\C# Fundamentals\BasicSyntax-Exercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.dll
+D:\C# Fundamentals\BasicSyntax-Exercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.pdb
+D:\C# Fundamentals\BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.AssemblyInfoInputs.cache
+D:\C# Fundamentals\BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.AssemblyInfo.cs
+D:\C# Fundamentals\BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.dll
+D:\C# Fundamentals\BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.pdb
+D:\C# Fundamentals\BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.genruntimeconfig.cache
+D:\C# Fundamentals\BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.csprojAssemblyReference.cache

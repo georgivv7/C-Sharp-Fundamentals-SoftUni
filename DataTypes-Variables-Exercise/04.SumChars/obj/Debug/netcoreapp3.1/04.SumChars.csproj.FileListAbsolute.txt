@@ -1,0 +1,12 @@
+D:\C# Fundamentals\DataTypes-Variables-Exercise\04.SumChars\bin\Debug\netcoreapp3.1\04.SumChars.exe
+D:\C# Fundamentals\DataTypes-Variables-Exercise\04.SumChars\bin\Debug\netcoreapp3.1\04.SumChars.deps.json
+D:\C# Fundamentals\DataTypes-Variables-Exercise\04.SumChars\bin\Debug\netcoreapp3.1\04.SumChars.runtimeconfig.json
+D:\C# Fundamentals\DataTypes-Variables-Exercise\04.SumChars\bin\Debug\netcoreapp3.1\04.SumChars.runtimeconfig.dev.json
+D:\C# Fundamentals\DataTypes-Variables-Exercise\04.SumChars\bin\Debug\netcoreapp3.1\04.SumChars.dll
+D:\C# Fundamentals\DataTypes-Variables-Exercise\04.SumChars\bin\Debug\netcoreapp3.1\04.SumChars.pdb
+D:\C# Fundamentals\DataTypes-Variables-Exercise\04.SumChars\obj\Debug\netcoreapp3.1\04.SumChars.AssemblyInfoInputs.cache
+D:\C# Fundamentals\DataTypes-Variables-Exercise\04.SumChars\obj\Debug\netcoreapp3.1\04.SumChars.AssemblyInfo.cs
+D:\C# Fundamentals\DataTypes-Variables-Exercise\04.SumChars\obj\Debug\netcoreapp3.1\04.SumChars.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\DataTypes-Variables-Exercise\04.SumChars\obj\Debug\netcoreapp3.1\04.SumChars.dll
+D:\C# Fundamentals\DataTypes-Variables-Exercise\04.SumChars\obj\Debug\netcoreapp3.1\04.SumChars.pdb
+D:\C# Fundamentals\DataTypes-Variables-Exercise\04.SumChars\obj\Debug\netcoreapp3.1\04.SumChars.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\03. PlantDiscovery\bin\Debug\netcoreapp3.1\03. PlantDiscovery.exe
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\03. PlantDiscovery\bin\Debug\netcoreapp3.1\03. PlantDiscovery.deps.json
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\03. PlantDiscovery\bin\Debug\netcoreapp3.1\03. PlantDiscovery.runtimeconfig.json
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\03. PlantDiscovery\bin\Debug\netcoreapp3.1\03. PlantDiscovery.runtimeconfig.dev.json
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\03. PlantDiscovery\bin\Debug\netcoreapp3.1\03. PlantDiscovery.dll
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\03. PlantDiscovery\bin\Debug\netcoreapp3.1\03. PlantDiscovery.pdb
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\03. PlantDiscovery\obj\Debug\netcoreapp3.1\03. PlantDiscovery.csprojAssemblyReference.cache
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\03. PlantDiscovery\obj\Debug\netcoreapp3.1\03. PlantDiscovery.AssemblyInfoInputs.cache
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\03. PlantDiscovery\obj\Debug\netcoreapp3.1\03. PlantDiscovery.AssemblyInfo.cs
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\03. PlantDiscovery\obj\Debug\netcoreapp3.1\03. PlantDiscovery.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\03. PlantDiscovery\obj\Debug\netcoreapp3.1\03. PlantDiscovery.dll
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\03. PlantDiscovery\obj\Debug\netcoreapp3.1\03. PlantDiscovery.pdb
+D:\C# Fundamentals\2. ProgrammingFundamentals-FinalExam\03. PlantDiscovery\obj\Debug\netcoreapp3.1\03. PlantDiscovery.genruntimeconfig.cache

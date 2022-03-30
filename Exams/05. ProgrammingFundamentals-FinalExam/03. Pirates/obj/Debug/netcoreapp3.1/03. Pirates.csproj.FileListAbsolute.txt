@@ -1,0 +1,13 @@
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\03. Pirates\bin\Debug\netcoreapp3.1\03. Pirates.exe
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\03. Pirates\bin\Debug\netcoreapp3.1\03. Pirates.deps.json
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\03. Pirates\bin\Debug\netcoreapp3.1\03. Pirates.runtimeconfig.json
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\03. Pirates\bin\Debug\netcoreapp3.1\03. Pirates.runtimeconfig.dev.json
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\03. Pirates\bin\Debug\netcoreapp3.1\03. Pirates.dll
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\03. Pirates\bin\Debug\netcoreapp3.1\03. Pirates.pdb
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\03. Pirates\obj\Debug\netcoreapp3.1\03. Pirates.csprojAssemblyReference.cache
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\03. Pirates\obj\Debug\netcoreapp3.1\03. Pirates.AssemblyInfoInputs.cache
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\03. Pirates\obj\Debug\netcoreapp3.1\03. Pirates.AssemblyInfo.cs
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\03. Pirates\obj\Debug\netcoreapp3.1\03. Pirates.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\03. Pirates\obj\Debug\netcoreapp3.1\03. Pirates.dll
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\03. Pirates\obj\Debug\netcoreapp3.1\03. Pirates.pdb
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\03. Pirates\obj\Debug\netcoreapp3.1\03. Pirates.genruntimeconfig.cache

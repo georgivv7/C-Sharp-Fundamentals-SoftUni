@@ -1,0 +1,12 @@
+D:\C# Fundamentals\BasicSyntax-Exercise\01.Ages\bin\Debug\netcoreapp3.1\01.Ages.exe
+D:\C# Fundamentals\BasicSyntax-Exercise\01.Ages\bin\Debug\netcoreapp3.1\01.Ages.deps.json
+D:\C# Fundamentals\BasicSyntax-Exercise\01.Ages\bin\Debug\netcoreapp3.1\01.Ages.runtimeconfig.json
+D:\C# Fundamentals\BasicSyntax-Exercise\01.Ages\bin\Debug\netcoreapp3.1\01.Ages.runtimeconfig.dev.json
+D:\C# Fundamentals\BasicSyntax-Exercise\01.Ages\bin\Debug\netcoreapp3.1\01.Ages.dll
+D:\C# Fundamentals\BasicSyntax-Exercise\01.Ages\bin\Debug\netcoreapp3.1\01.Ages.pdb
+D:\C# Fundamentals\BasicSyntax-Exercise\01.Ages\obj\Debug\netcoreapp3.1\01.Ages.AssemblyInfoInputs.cache
+D:\C# Fundamentals\BasicSyntax-Exercise\01.Ages\obj\Debug\netcoreapp3.1\01.Ages.AssemblyInfo.cs
+D:\C# Fundamentals\BasicSyntax-Exercise\01.Ages\obj\Debug\netcoreapp3.1\01.Ages.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\BasicSyntax-Exercise\01.Ages\obj\Debug\netcoreapp3.1\01.Ages.dll
+D:\C# Fundamentals\BasicSyntax-Exercise\01.Ages\obj\Debug\netcoreapp3.1\01.Ages.pdb
+D:\C# Fundamentals\BasicSyntax-Exercise\01.Ages\obj\Debug\netcoreapp3.1\01.Ages.genruntimeconfig.cache

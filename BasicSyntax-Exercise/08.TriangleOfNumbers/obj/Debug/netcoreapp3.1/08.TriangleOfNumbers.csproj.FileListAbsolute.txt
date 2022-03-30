@@ -1,0 +1,12 @@
+D:\C# Fundamentals\BasicSyntax-Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.exe
+D:\C# Fundamentals\BasicSyntax-Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.deps.json
+D:\C# Fundamentals\BasicSyntax-Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.runtimeconfig.json
+D:\C# Fundamentals\BasicSyntax-Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.runtimeconfig.dev.json
+D:\C# Fundamentals\BasicSyntax-Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.dll
+D:\C# Fundamentals\BasicSyntax-Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.pdb
+D:\C# Fundamentals\BasicSyntax-Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.AssemblyInfoInputs.cache
+D:\C# Fundamentals\BasicSyntax-Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.AssemblyInfo.cs
+D:\C# Fundamentals\BasicSyntax-Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\BasicSyntax-Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.dll
+D:\C# Fundamentals\BasicSyntax-Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.pdb
+D:\C# Fundamentals\BasicSyntax-Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.genruntimeconfig.cache

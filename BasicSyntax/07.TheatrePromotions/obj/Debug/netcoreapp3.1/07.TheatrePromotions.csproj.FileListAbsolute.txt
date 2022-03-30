@@ -1,0 +1,12 @@
+D:\C# Fundamentals\BasicSyntax\07.TheatrePromotions\bin\Debug\netcoreapp3.1\07.TheatrePromotions.exe
+D:\C# Fundamentals\BasicSyntax\07.TheatrePromotions\bin\Debug\netcoreapp3.1\07.TheatrePromotions.deps.json
+D:\C# Fundamentals\BasicSyntax\07.TheatrePromotions\bin\Debug\netcoreapp3.1\07.TheatrePromotions.runtimeconfig.json
+D:\C# Fundamentals\BasicSyntax\07.TheatrePromotions\bin\Debug\netcoreapp3.1\07.TheatrePromotions.runtimeconfig.dev.json
+D:\C# Fundamentals\BasicSyntax\07.TheatrePromotions\bin\Debug\netcoreapp3.1\07.TheatrePromotions.dll
+D:\C# Fundamentals\BasicSyntax\07.TheatrePromotions\bin\Debug\netcoreapp3.1\07.TheatrePromotions.pdb
+D:\C# Fundamentals\BasicSyntax\07.TheatrePromotions\obj\Debug\netcoreapp3.1\07.TheatrePromotions.AssemblyInfoInputs.cache
+D:\C# Fundamentals\BasicSyntax\07.TheatrePromotions\obj\Debug\netcoreapp3.1\07.TheatrePromotions.AssemblyInfo.cs
+D:\C# Fundamentals\BasicSyntax\07.TheatrePromotions\obj\Debug\netcoreapp3.1\07.TheatrePromotions.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\BasicSyntax\07.TheatrePromotions\obj\Debug\netcoreapp3.1\07.TheatrePromotions.dll
+D:\C# Fundamentals\BasicSyntax\07.TheatrePromotions\obj\Debug\netcoreapp3.1\07.TheatrePromotions.pdb
+D:\C# Fundamentals\BasicSyntax\07.TheatrePromotions\obj\Debug\netcoreapp3.1\07.TheatrePromotions.genruntimeconfig.cache

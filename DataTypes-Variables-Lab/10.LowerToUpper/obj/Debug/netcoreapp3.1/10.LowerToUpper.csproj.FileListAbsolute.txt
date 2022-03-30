@@ -1,0 +1,12 @@
+D:\C# Fundamentals\DataTypes-Variables-Lab\10.LowerToUpper\bin\Debug\netcoreapp3.1\10.LowerToUpper.exe
+D:\C# Fundamentals\DataTypes-Variables-Lab\10.LowerToUpper\bin\Debug\netcoreapp3.1\10.LowerToUpper.deps.json
+D:\C# Fundamentals\DataTypes-Variables-Lab\10.LowerToUpper\bin\Debug\netcoreapp3.1\10.LowerToUpper.runtimeconfig.json
+D:\C# Fundamentals\DataTypes-Variables-Lab\10.LowerToUpper\bin\Debug\netcoreapp3.1\10.LowerToUpper.runtimeconfig.dev.json
+D:\C# Fundamentals\DataTypes-Variables-Lab\10.LowerToUpper\bin\Debug\netcoreapp3.1\10.LowerToUpper.dll
+D:\C# Fundamentals\DataTypes-Variables-Lab\10.LowerToUpper\bin\Debug\netcoreapp3.1\10.LowerToUpper.pdb
+D:\C# Fundamentals\DataTypes-Variables-Lab\10.LowerToUpper\obj\Debug\netcoreapp3.1\10.LowerToUpper.AssemblyInfoInputs.cache
+D:\C# Fundamentals\DataTypes-Variables-Lab\10.LowerToUpper\obj\Debug\netcoreapp3.1\10.LowerToUpper.AssemblyInfo.cs
+D:\C# Fundamentals\DataTypes-Variables-Lab\10.LowerToUpper\obj\Debug\netcoreapp3.1\10.LowerToUpper.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\DataTypes-Variables-Lab\10.LowerToUpper\obj\Debug\netcoreapp3.1\10.LowerToUpper.dll
+D:\C# Fundamentals\DataTypes-Variables-Lab\10.LowerToUpper\obj\Debug\netcoreapp3.1\10.LowerToUpper.pdb
+D:\C# Fundamentals\DataTypes-Variables-Lab\10.LowerToUpper\obj\Debug\netcoreapp3.1\10.LowerToUpper.genruntimeconfig.cache

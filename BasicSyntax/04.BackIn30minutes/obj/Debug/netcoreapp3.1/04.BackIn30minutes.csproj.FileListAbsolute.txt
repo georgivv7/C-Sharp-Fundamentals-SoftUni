@@ -1,0 +1,13 @@
+D:\C# Fundamentals\BasicSyntax\04.BackIn30minutes\bin\Debug\netcoreapp3.1\04.BackIn30minutes.exe
+D:\C# Fundamentals\BasicSyntax\04.BackIn30minutes\bin\Debug\netcoreapp3.1\04.BackIn30minutes.deps.json
+D:\C# Fundamentals\BasicSyntax\04.BackIn30minutes\bin\Debug\netcoreapp3.1\04.BackIn30minutes.runtimeconfig.json
+D:\C# Fundamentals\BasicSyntax\04.BackIn30minutes\bin\Debug\netcoreapp3.1\04.BackIn30minutes.runtimeconfig.dev.json
+D:\C# Fundamentals\BasicSyntax\04.BackIn30minutes\bin\Debug\netcoreapp3.1\04.BackIn30minutes.dll
+D:\C# Fundamentals\BasicSyntax\04.BackIn30minutes\bin\Debug\netcoreapp3.1\04.BackIn30minutes.pdb
+D:\C# Fundamentals\BasicSyntax\04.BackIn30minutes\obj\Debug\netcoreapp3.1\04.BackIn30minutes.csprojAssemblyReference.cache
+D:\C# Fundamentals\BasicSyntax\04.BackIn30minutes\obj\Debug\netcoreapp3.1\04.BackIn30minutes.AssemblyInfoInputs.cache
+D:\C# Fundamentals\BasicSyntax\04.BackIn30minutes\obj\Debug\netcoreapp3.1\04.BackIn30minutes.AssemblyInfo.cs
+D:\C# Fundamentals\BasicSyntax\04.BackIn30minutes\obj\Debug\netcoreapp3.1\04.BackIn30minutes.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\BasicSyntax\04.BackIn30minutes\obj\Debug\netcoreapp3.1\04.BackIn30minutes.dll
+D:\C# Fundamentals\BasicSyntax\04.BackIn30minutes\obj\Debug\netcoreapp3.1\04.BackIn30minutes.pdb
+D:\C# Fundamentals\BasicSyntax\04.BackIn30minutes\obj\Debug\netcoreapp3.1\04.BackIn30minutes.genruntimeconfig.cache

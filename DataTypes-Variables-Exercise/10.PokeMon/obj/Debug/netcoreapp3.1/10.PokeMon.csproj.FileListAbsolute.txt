@@ -1,0 +1,13 @@
+D:\C# Fundamentals\DataTypes-Variables-Exercise\10.PokeMon\bin\Debug\netcoreapp3.1\10.PokeMon.exe
+D:\C# Fundamentals\DataTypes-Variables-Exercise\10.PokeMon\bin\Debug\netcoreapp3.1\10.PokeMon.deps.json
+D:\C# Fundamentals\DataTypes-Variables-Exercise\10.PokeMon\bin\Debug\netcoreapp3.1\10.PokeMon.runtimeconfig.json
+D:\C# Fundamentals\DataTypes-Variables-Exercise\10.PokeMon\bin\Debug\netcoreapp3.1\10.PokeMon.runtimeconfig.dev.json
+D:\C# Fundamentals\DataTypes-Variables-Exercise\10.PokeMon\bin\Debug\netcoreapp3.1\10.PokeMon.dll
+D:\C# Fundamentals\DataTypes-Variables-Exercise\10.PokeMon\bin\Debug\netcoreapp3.1\10.PokeMon.pdb
+D:\C# Fundamentals\DataTypes-Variables-Exercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.csprojAssemblyReference.cache
+D:\C# Fundamentals\DataTypes-Variables-Exercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.AssemblyInfoInputs.cache
+D:\C# Fundamentals\DataTypes-Variables-Exercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.AssemblyInfo.cs
+D:\C# Fundamentals\DataTypes-Variables-Exercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\DataTypes-Variables-Exercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.dll
+D:\C# Fundamentals\DataTypes-Variables-Exercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.pdb
+D:\C# Fundamentals\DataTypes-Variables-Exercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.genruntimeconfig.cache

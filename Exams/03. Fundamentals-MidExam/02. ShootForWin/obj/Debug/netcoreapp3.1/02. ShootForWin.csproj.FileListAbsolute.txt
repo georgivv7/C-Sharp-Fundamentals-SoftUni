@@ -1,0 +1,13 @@
+D:\C# Fundamentals\03. Fundamentals-MidExam\02. ShootForWin\bin\Debug\netcoreapp3.1\02. ShootForWin.exe
+D:\C# Fundamentals\03. Fundamentals-MidExam\02. ShootForWin\bin\Debug\netcoreapp3.1\02. ShootForWin.deps.json
+D:\C# Fundamentals\03. Fundamentals-MidExam\02. ShootForWin\bin\Debug\netcoreapp3.1\02. ShootForWin.runtimeconfig.json
+D:\C# Fundamentals\03. Fundamentals-MidExam\02. ShootForWin\bin\Debug\netcoreapp3.1\02. ShootForWin.runtimeconfig.dev.json
+D:\C# Fundamentals\03. Fundamentals-MidExam\02. ShootForWin\bin\Debug\netcoreapp3.1\02. ShootForWin.dll
+D:\C# Fundamentals\03. Fundamentals-MidExam\02. ShootForWin\bin\Debug\netcoreapp3.1\02. ShootForWin.pdb
+D:\C# Fundamentals\03. Fundamentals-MidExam\02. ShootForWin\obj\Debug\netcoreapp3.1\02. ShootForWin.csprojAssemblyReference.cache
+D:\C# Fundamentals\03. Fundamentals-MidExam\02. ShootForWin\obj\Debug\netcoreapp3.1\02. ShootForWin.AssemblyInfoInputs.cache
+D:\C# Fundamentals\03. Fundamentals-MidExam\02. ShootForWin\obj\Debug\netcoreapp3.1\02. ShootForWin.AssemblyInfo.cs
+D:\C# Fundamentals\03. Fundamentals-MidExam\02. ShootForWin\obj\Debug\netcoreapp3.1\02. ShootForWin.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\03. Fundamentals-MidExam\02. ShootForWin\obj\Debug\netcoreapp3.1\02. ShootForWin.dll
+D:\C# Fundamentals\03. Fundamentals-MidExam\02. ShootForWin\obj\Debug\netcoreapp3.1\02. ShootForWin.pdb
+D:\C# Fundamentals\03. Fundamentals-MidExam\02. ShootForWin\obj\Debug\netcoreapp3.1\02. ShootForWin.genruntimeconfig.cache

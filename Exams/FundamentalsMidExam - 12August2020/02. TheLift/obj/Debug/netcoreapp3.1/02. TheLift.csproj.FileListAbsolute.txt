@@ -1,0 +1,13 @@
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\02. TheLift\bin\Debug\netcoreapp3.1\02. TheLift.exe
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\02. TheLift\bin\Debug\netcoreapp3.1\02. TheLift.deps.json
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\02. TheLift\bin\Debug\netcoreapp3.1\02. TheLift.runtimeconfig.json
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\02. TheLift\bin\Debug\netcoreapp3.1\02. TheLift.runtimeconfig.dev.json
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\02. TheLift\bin\Debug\netcoreapp3.1\02. TheLift.dll
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\02. TheLift\bin\Debug\netcoreapp3.1\02. TheLift.pdb
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\02. TheLift\obj\Debug\netcoreapp3.1\02. TheLift.csprojAssemblyReference.cache
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\02. TheLift\obj\Debug\netcoreapp3.1\02. TheLift.AssemblyInfoInputs.cache
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\02. TheLift\obj\Debug\netcoreapp3.1\02. TheLift.AssemblyInfo.cs
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\02. TheLift\obj\Debug\netcoreapp3.1\02. TheLift.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\02. TheLift\obj\Debug\netcoreapp3.1\02. TheLift.dll
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\02. TheLift\obj\Debug\netcoreapp3.1\02. TheLift.pdb
+D:\C# Fundamentals\FundamentalsMidExam - 12August2020\02. TheLift\obj\Debug\netcoreapp3.1\02. TheLift.genruntimeconfig.cache

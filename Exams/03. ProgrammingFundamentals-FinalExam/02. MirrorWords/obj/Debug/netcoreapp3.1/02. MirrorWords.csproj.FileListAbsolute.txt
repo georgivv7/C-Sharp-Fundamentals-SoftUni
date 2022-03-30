@@ -1,0 +1,13 @@
+D:\C# Fundamentals\03. ProgrammingFundamentals-FinalExam\02. MirrorWords\bin\Debug\netcoreapp3.1\02. MirrorWords.exe
+D:\C# Fundamentals\03. ProgrammingFundamentals-FinalExam\02. MirrorWords\bin\Debug\netcoreapp3.1\02. MirrorWords.deps.json
+D:\C# Fundamentals\03. ProgrammingFundamentals-FinalExam\02. MirrorWords\bin\Debug\netcoreapp3.1\02. MirrorWords.runtimeconfig.json
+D:\C# Fundamentals\03. ProgrammingFundamentals-FinalExam\02. MirrorWords\bin\Debug\netcoreapp3.1\02. MirrorWords.runtimeconfig.dev.json
+D:\C# Fundamentals\03. ProgrammingFundamentals-FinalExam\02. MirrorWords\bin\Debug\netcoreapp3.1\02. MirrorWords.dll
+D:\C# Fundamentals\03. ProgrammingFundamentals-FinalExam\02. MirrorWords\bin\Debug\netcoreapp3.1\02. MirrorWords.pdb
+D:\C# Fundamentals\03. ProgrammingFundamentals-FinalExam\02. MirrorWords\obj\Debug\netcoreapp3.1\02. MirrorWords.csprojAssemblyReference.cache
+D:\C# Fundamentals\03. ProgrammingFundamentals-FinalExam\02. MirrorWords\obj\Debug\netcoreapp3.1\02. MirrorWords.AssemblyInfoInputs.cache
+D:\C# Fundamentals\03. ProgrammingFundamentals-FinalExam\02. MirrorWords\obj\Debug\netcoreapp3.1\02. MirrorWords.AssemblyInfo.cs
+D:\C# Fundamentals\03. ProgrammingFundamentals-FinalExam\02. MirrorWords\obj\Debug\netcoreapp3.1\02. MirrorWords.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\03. ProgrammingFundamentals-FinalExam\02. MirrorWords\obj\Debug\netcoreapp3.1\02. MirrorWords.dll
+D:\C# Fundamentals\03. ProgrammingFundamentals-FinalExam\02. MirrorWords\obj\Debug\netcoreapp3.1\02. MirrorWords.pdb
+D:\C# Fundamentals\03. ProgrammingFundamentals-FinalExam\02. MirrorWords\obj\Debug\netcoreapp3.1\02. MirrorWords.genruntimeconfig.cache

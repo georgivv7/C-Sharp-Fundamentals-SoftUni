@@ -1,0 +1,13 @@
+D:\C# Fundamentals\BasicSyntax-Exercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.exe
+D:\C# Fundamentals\BasicSyntax-Exercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.deps.json
+D:\C# Fundamentals\BasicSyntax-Exercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.runtimeconfig.json
+D:\C# Fundamentals\BasicSyntax-Exercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.runtimeconfig.dev.json
+D:\C# Fundamentals\BasicSyntax-Exercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.dll
+D:\C# Fundamentals\BasicSyntax-Exercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.pdb
+D:\C# Fundamentals\BasicSyntax-Exercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.csprojAssemblyReference.cache
+D:\C# Fundamentals\BasicSyntax-Exercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.AssemblyInfoInputs.cache
+D:\C# Fundamentals\BasicSyntax-Exercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.AssemblyInfo.cs
+D:\C# Fundamentals\BasicSyntax-Exercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\BasicSyntax-Exercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.dll
+D:\C# Fundamentals\BasicSyntax-Exercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.pdb
+D:\C# Fundamentals\BasicSyntax-Exercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.genruntimeconfig.cache

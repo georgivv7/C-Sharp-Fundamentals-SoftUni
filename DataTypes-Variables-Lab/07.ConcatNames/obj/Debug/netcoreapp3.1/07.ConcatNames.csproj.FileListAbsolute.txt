@@ -1,0 +1,12 @@
+D:\C# Fundamentals\DataTypes-Variables-Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.exe
+D:\C# Fundamentals\DataTypes-Variables-Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.deps.json
+D:\C# Fundamentals\DataTypes-Variables-Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.runtimeconfig.json
+D:\C# Fundamentals\DataTypes-Variables-Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.runtimeconfig.dev.json
+D:\C# Fundamentals\DataTypes-Variables-Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.dll
+D:\C# Fundamentals\DataTypes-Variables-Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.pdb
+D:\C# Fundamentals\DataTypes-Variables-Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.AssemblyInfoInputs.cache
+D:\C# Fundamentals\DataTypes-Variables-Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.AssemblyInfo.cs
+D:\C# Fundamentals\DataTypes-Variables-Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\DataTypes-Variables-Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.dll
+D:\C# Fundamentals\DataTypes-Variables-Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.pdb
+D:\C# Fundamentals\DataTypes-Variables-Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.genruntimeconfig.cache

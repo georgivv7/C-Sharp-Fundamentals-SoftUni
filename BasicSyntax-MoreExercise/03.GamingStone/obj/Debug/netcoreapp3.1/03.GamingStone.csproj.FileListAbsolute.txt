@@ -1,0 +1,13 @@
+D:\C# Fundamentals\BasicSyntax-MoreExercise\03.GamingStone\bin\Debug\netcoreapp3.1\03.GamingStone.exe
+D:\C# Fundamentals\BasicSyntax-MoreExercise\03.GamingStone\bin\Debug\netcoreapp3.1\03.GamingStone.deps.json
+D:\C# Fundamentals\BasicSyntax-MoreExercise\03.GamingStone\bin\Debug\netcoreapp3.1\03.GamingStone.runtimeconfig.json
+D:\C# Fundamentals\BasicSyntax-MoreExercise\03.GamingStone\bin\Debug\netcoreapp3.1\03.GamingStone.runtimeconfig.dev.json
+D:\C# Fundamentals\BasicSyntax-MoreExercise\03.GamingStone\bin\Debug\netcoreapp3.1\03.GamingStone.dll
+D:\C# Fundamentals\BasicSyntax-MoreExercise\03.GamingStone\bin\Debug\netcoreapp3.1\03.GamingStone.pdb
+D:\C# Fundamentals\BasicSyntax-MoreExercise\03.GamingStone\obj\Debug\netcoreapp3.1\03.GamingStone.csprojAssemblyReference.cache
+D:\C# Fundamentals\BasicSyntax-MoreExercise\03.GamingStone\obj\Debug\netcoreapp3.1\03.GamingStone.AssemblyInfoInputs.cache
+D:\C# Fundamentals\BasicSyntax-MoreExercise\03.GamingStone\obj\Debug\netcoreapp3.1\03.GamingStone.AssemblyInfo.cs
+D:\C# Fundamentals\BasicSyntax-MoreExercise\03.GamingStone\obj\Debug\netcoreapp3.1\03.GamingStone.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\BasicSyntax-MoreExercise\03.GamingStone\obj\Debug\netcoreapp3.1\03.GamingStone.dll
+D:\C# Fundamentals\BasicSyntax-MoreExercise\03.GamingStone\obj\Debug\netcoreapp3.1\03.GamingStone.pdb
+D:\C# Fundamentals\BasicSyntax-MoreExercise\03.GamingStone\obj\Debug\netcoreapp3.1\03.GamingStone.genruntimeconfig.cache

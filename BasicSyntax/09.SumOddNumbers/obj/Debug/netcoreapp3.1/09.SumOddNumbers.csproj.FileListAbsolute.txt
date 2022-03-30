@@ -1,0 +1,12 @@
+D:\C# Fundamentals\BasicSyntax\09.SumOddNumbers\bin\Debug\netcoreapp3.1\09.SumOddNumbers.exe
+D:\C# Fundamentals\BasicSyntax\09.SumOddNumbers\bin\Debug\netcoreapp3.1\09.SumOddNumbers.deps.json
+D:\C# Fundamentals\BasicSyntax\09.SumOddNumbers\bin\Debug\netcoreapp3.1\09.SumOddNumbers.runtimeconfig.json
+D:\C# Fundamentals\BasicSyntax\09.SumOddNumbers\bin\Debug\netcoreapp3.1\09.SumOddNumbers.runtimeconfig.dev.json
+D:\C# Fundamentals\BasicSyntax\09.SumOddNumbers\bin\Debug\netcoreapp3.1\09.SumOddNumbers.dll
+D:\C# Fundamentals\BasicSyntax\09.SumOddNumbers\bin\Debug\netcoreapp3.1\09.SumOddNumbers.pdb
+D:\C# Fundamentals\BasicSyntax\09.SumOddNumbers\obj\Debug\netcoreapp3.1\09.SumOddNumbers.AssemblyInfoInputs.cache
+D:\C# Fundamentals\BasicSyntax\09.SumOddNumbers\obj\Debug\netcoreapp3.1\09.SumOddNumbers.AssemblyInfo.cs
+D:\C# Fundamentals\BasicSyntax\09.SumOddNumbers\obj\Debug\netcoreapp3.1\09.SumOddNumbers.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\BasicSyntax\09.SumOddNumbers\obj\Debug\netcoreapp3.1\09.SumOddNumbers.dll
+D:\C# Fundamentals\BasicSyntax\09.SumOddNumbers\obj\Debug\netcoreapp3.1\09.SumOddNumbers.pdb
+D:\C# Fundamentals\BasicSyntax\09.SumOddNumbers\obj\Debug\netcoreapp3.1\09.SumOddNumbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Fundamentals\DataTypes-Variables-Lab\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.exe
+D:\C# Fundamentals\DataTypes-Variables-Lab\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.deps.json
+D:\C# Fundamentals\DataTypes-Variables-Lab\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.runtimeconfig.json
+D:\C# Fundamentals\DataTypes-Variables-Lab\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.runtimeconfig.dev.json
+D:\C# Fundamentals\DataTypes-Variables-Lab\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.dll
+D:\C# Fundamentals\DataTypes-Variables-Lab\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.pdb
+D:\C# Fundamentals\DataTypes-Variables-Lab\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.csprojAssemblyReference.cache
+D:\C# Fundamentals\DataTypes-Variables-Lab\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.AssemblyInfoInputs.cache
+D:\C# Fundamentals\DataTypes-Variables-Lab\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.AssemblyInfo.cs
+D:\C# Fundamentals\DataTypes-Variables-Lab\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\DataTypes-Variables-Lab\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.dll
+D:\C# Fundamentals\DataTypes-Variables-Lab\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.pdb
+D:\C# Fundamentals\DataTypes-Variables-Lab\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.genruntimeconfig.cache

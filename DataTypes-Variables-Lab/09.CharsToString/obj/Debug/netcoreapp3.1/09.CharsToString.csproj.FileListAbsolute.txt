@@ -1,0 +1,13 @@
+D:\C# Fundamentals\DataTypes-Variables-Lab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.exe
+D:\C# Fundamentals\DataTypes-Variables-Lab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.deps.json
+D:\C# Fundamentals\DataTypes-Variables-Lab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.runtimeconfig.json
+D:\C# Fundamentals\DataTypes-Variables-Lab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.runtimeconfig.dev.json
+D:\C# Fundamentals\DataTypes-Variables-Lab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.dll
+D:\C# Fundamentals\DataTypes-Variables-Lab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.pdb
+D:\C# Fundamentals\DataTypes-Variables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.csprojAssemblyReference.cache
+D:\C# Fundamentals\DataTypes-Variables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.AssemblyInfoInputs.cache
+D:\C# Fundamentals\DataTypes-Variables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.AssemblyInfo.cs
+D:\C# Fundamentals\DataTypes-Variables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\DataTypes-Variables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.dll
+D:\C# Fundamentals\DataTypes-Variables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.pdb
+D:\C# Fundamentals\DataTypes-Variables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.genruntimeconfig.cache

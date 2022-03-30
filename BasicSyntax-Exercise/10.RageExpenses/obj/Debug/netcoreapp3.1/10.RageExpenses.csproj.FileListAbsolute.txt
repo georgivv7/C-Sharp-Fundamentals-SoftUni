@@ -1,0 +1,13 @@
+D:\C# Fundamentals\BasicSyntax-Exercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.exe
+D:\C# Fundamentals\BasicSyntax-Exercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.deps.json
+D:\C# Fundamentals\BasicSyntax-Exercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.runtimeconfig.json
+D:\C# Fundamentals\BasicSyntax-Exercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.runtimeconfig.dev.json
+D:\C# Fundamentals\BasicSyntax-Exercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.dll
+D:\C# Fundamentals\BasicSyntax-Exercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.pdb
+D:\C# Fundamentals\BasicSyntax-Exercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.csprojAssemblyReference.cache
+D:\C# Fundamentals\BasicSyntax-Exercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.AssemblyInfoInputs.cache
+D:\C# Fundamentals\BasicSyntax-Exercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.AssemblyInfo.cs
+D:\C# Fundamentals\BasicSyntax-Exercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\BasicSyntax-Exercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.dll
+D:\C# Fundamentals\BasicSyntax-Exercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.pdb
+D:\C# Fundamentals\BasicSyntax-Exercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.genruntimeconfig.cache

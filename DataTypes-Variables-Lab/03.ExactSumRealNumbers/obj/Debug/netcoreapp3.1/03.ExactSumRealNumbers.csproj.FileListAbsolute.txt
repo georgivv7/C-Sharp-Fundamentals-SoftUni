@@ -1,0 +1,13 @@
+D:\C# Fundamentals\DataTypes-Variables-Lab\03.ExactSumRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumRealNumbers.exe
+D:\C# Fundamentals\DataTypes-Variables-Lab\03.ExactSumRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumRealNumbers.deps.json
+D:\C# Fundamentals\DataTypes-Variables-Lab\03.ExactSumRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumRealNumbers.runtimeconfig.json
+D:\C# Fundamentals\DataTypes-Variables-Lab\03.ExactSumRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumRealNumbers.runtimeconfig.dev.json
+D:\C# Fundamentals\DataTypes-Variables-Lab\03.ExactSumRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumRealNumbers.dll
+D:\C# Fundamentals\DataTypes-Variables-Lab\03.ExactSumRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumRealNumbers.pdb
+D:\C# Fundamentals\DataTypes-Variables-Lab\03.ExactSumRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumRealNumbers.csprojAssemblyReference.cache
+D:\C# Fundamentals\DataTypes-Variables-Lab\03.ExactSumRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumRealNumbers.AssemblyInfoInputs.cache
+D:\C# Fundamentals\DataTypes-Variables-Lab\03.ExactSumRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumRealNumbers.AssemblyInfo.cs
+D:\C# Fundamentals\DataTypes-Variables-Lab\03.ExactSumRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumRealNumbers.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\DataTypes-Variables-Lab\03.ExactSumRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumRealNumbers.dll
+D:\C# Fundamentals\DataTypes-Variables-Lab\03.ExactSumRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumRealNumbers.pdb
+D:\C# Fundamentals\DataTypes-Variables-Lab\03.ExactSumRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumRealNumbers.genruntimeconfig.cache

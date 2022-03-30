@@ -1,0 +1,13 @@
+D:\C# Fundamentals\Methods-Exercise\01.SmallerstNum\bin\Debug\netcoreapp3.1\01.SmallerstNum.exe
+D:\C# Fundamentals\Methods-Exercise\01.SmallerstNum\bin\Debug\netcoreapp3.1\01.SmallerstNum.deps.json
+D:\C# Fundamentals\Methods-Exercise\01.SmallerstNum\bin\Debug\netcoreapp3.1\01.SmallerstNum.runtimeconfig.json
+D:\C# Fundamentals\Methods-Exercise\01.SmallerstNum\bin\Debug\netcoreapp3.1\01.SmallerstNum.runtimeconfig.dev.json
+D:\C# Fundamentals\Methods-Exercise\01.SmallerstNum\bin\Debug\netcoreapp3.1\01.SmallerstNum.dll
+D:\C# Fundamentals\Methods-Exercise\01.SmallerstNum\bin\Debug\netcoreapp3.1\01.SmallerstNum.pdb
+D:\C# Fundamentals\Methods-Exercise\01.SmallerstNum\obj\Debug\netcoreapp3.1\01.SmallerstNum.csprojAssemblyReference.cache
+D:\C# Fundamentals\Methods-Exercise\01.SmallerstNum\obj\Debug\netcoreapp3.1\01.SmallerstNum.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Methods-Exercise\01.SmallerstNum\obj\Debug\netcoreapp3.1\01.SmallerstNum.AssemblyInfo.cs
+D:\C# Fundamentals\Methods-Exercise\01.SmallerstNum\obj\Debug\netcoreapp3.1\01.SmallerstNum.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Methods-Exercise\01.SmallerstNum\obj\Debug\netcoreapp3.1\01.SmallerstNum.dll
+D:\C# Fundamentals\Methods-Exercise\01.SmallerstNum\obj\Debug\netcoreapp3.1\01.SmallerstNum.pdb
+D:\C# Fundamentals\Methods-Exercise\01.SmallerstNum\obj\Debug\netcoreapp3.1\01.SmallerstNum.genruntimeconfig.cache

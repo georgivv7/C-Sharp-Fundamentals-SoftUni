@@ -1,0 +1,12 @@
+D:\C# Fundamentals\Lists-Lab\05.RemoveNegativesReverse\bin\Debug\netcoreapp3.1\05.RemoveNegativesReverse.exe
+D:\C# Fundamentals\Lists-Lab\05.RemoveNegativesReverse\bin\Debug\netcoreapp3.1\05.RemoveNegativesReverse.deps.json
+D:\C# Fundamentals\Lists-Lab\05.RemoveNegativesReverse\bin\Debug\netcoreapp3.1\05.RemoveNegativesReverse.runtimeconfig.json
+D:\C# Fundamentals\Lists-Lab\05.RemoveNegativesReverse\bin\Debug\netcoreapp3.1\05.RemoveNegativesReverse.runtimeconfig.dev.json
+D:\C# Fundamentals\Lists-Lab\05.RemoveNegativesReverse\bin\Debug\netcoreapp3.1\05.RemoveNegativesReverse.dll
+D:\C# Fundamentals\Lists-Lab\05.RemoveNegativesReverse\bin\Debug\netcoreapp3.1\05.RemoveNegativesReverse.pdb
+D:\C# Fundamentals\Lists-Lab\05.RemoveNegativesReverse\obj\Debug\netcoreapp3.1\05.RemoveNegativesReverse.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Lists-Lab\05.RemoveNegativesReverse\obj\Debug\netcoreapp3.1\05.RemoveNegativesReverse.AssemblyInfo.cs
+D:\C# Fundamentals\Lists-Lab\05.RemoveNegativesReverse\obj\Debug\netcoreapp3.1\05.RemoveNegativesReverse.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Lists-Lab\05.RemoveNegativesReverse\obj\Debug\netcoreapp3.1\05.RemoveNegativesReverse.dll
+D:\C# Fundamentals\Lists-Lab\05.RemoveNegativesReverse\obj\Debug\netcoreapp3.1\05.RemoveNegativesReverse.pdb
+D:\C# Fundamentals\Lists-Lab\05.RemoveNegativesReverse\obj\Debug\netcoreapp3.1\05.RemoveNegativesReverse.genruntimeconfig.cache

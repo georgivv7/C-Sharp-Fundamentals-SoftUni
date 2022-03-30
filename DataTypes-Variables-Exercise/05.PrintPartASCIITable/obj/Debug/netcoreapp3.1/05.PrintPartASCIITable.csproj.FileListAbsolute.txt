@@ -1,0 +1,12 @@
+D:\C# Fundamentals\DataTypes-Variables-Exercise\05.PrintPartASCIITable\bin\Debug\netcoreapp3.1\05.PrintPartASCIITable.exe
+D:\C# Fundamentals\DataTypes-Variables-Exercise\05.PrintPartASCIITable\bin\Debug\netcoreapp3.1\05.PrintPartASCIITable.deps.json
+D:\C# Fundamentals\DataTypes-Variables-Exercise\05.PrintPartASCIITable\bin\Debug\netcoreapp3.1\05.PrintPartASCIITable.runtimeconfig.json
+D:\C# Fundamentals\DataTypes-Variables-Exercise\05.PrintPartASCIITable\bin\Debug\netcoreapp3.1\05.PrintPartASCIITable.runtimeconfig.dev.json
+D:\C# Fundamentals\DataTypes-Variables-Exercise\05.PrintPartASCIITable\bin\Debug\netcoreapp3.1\05.PrintPartASCIITable.dll
+D:\C# Fundamentals\DataTypes-Variables-Exercise\05.PrintPartASCIITable\bin\Debug\netcoreapp3.1\05.PrintPartASCIITable.pdb
+D:\C# Fundamentals\DataTypes-Variables-Exercise\05.PrintPartASCIITable\obj\Debug\netcoreapp3.1\05.PrintPartASCIITable.AssemblyInfoInputs.cache
+D:\C# Fundamentals\DataTypes-Variables-Exercise\05.PrintPartASCIITable\obj\Debug\netcoreapp3.1\05.PrintPartASCIITable.AssemblyInfo.cs
+D:\C# Fundamentals\DataTypes-Variables-Exercise\05.PrintPartASCIITable\obj\Debug\netcoreapp3.1\05.PrintPartASCIITable.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\DataTypes-Variables-Exercise\05.PrintPartASCIITable\obj\Debug\netcoreapp3.1\05.PrintPartASCIITable.dll
+D:\C# Fundamentals\DataTypes-Variables-Exercise\05.PrintPartASCIITable\obj\Debug\netcoreapp3.1\05.PrintPartASCIITable.pdb
+D:\C# Fundamentals\DataTypes-Variables-Exercise\05.PrintPartASCIITable\obj\Debug\netcoreapp3.1\05.PrintPartASCIITable.genruntimeconfig.cache

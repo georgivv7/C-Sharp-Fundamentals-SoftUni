@@ -1,0 +1,12 @@
+D:\C# Fundamentals\BasicSyntax\05.MonthPrinter\bin\Debug\netcoreapp3.1\05.MonthPrinter.exe
+D:\C# Fundamentals\BasicSyntax\05.MonthPrinter\bin\Debug\netcoreapp3.1\05.MonthPrinter.deps.json
+D:\C# Fundamentals\BasicSyntax\05.MonthPrinter\bin\Debug\netcoreapp3.1\05.MonthPrinter.runtimeconfig.json
+D:\C# Fundamentals\BasicSyntax\05.MonthPrinter\bin\Debug\netcoreapp3.1\05.MonthPrinter.runtimeconfig.dev.json
+D:\C# Fundamentals\BasicSyntax\05.MonthPrinter\bin\Debug\netcoreapp3.1\05.MonthPrinter.dll
+D:\C# Fundamentals\BasicSyntax\05.MonthPrinter\bin\Debug\netcoreapp3.1\05.MonthPrinter.pdb
+D:\C# Fundamentals\BasicSyntax\05.MonthPrinter\obj\Debug\netcoreapp3.1\05.MonthPrinter.AssemblyInfoInputs.cache
+D:\C# Fundamentals\BasicSyntax\05.MonthPrinter\obj\Debug\netcoreapp3.1\05.MonthPrinter.AssemblyInfo.cs
+D:\C# Fundamentals\BasicSyntax\05.MonthPrinter\obj\Debug\netcoreapp3.1\05.MonthPrinter.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\BasicSyntax\05.MonthPrinter\obj\Debug\netcoreapp3.1\05.MonthPrinter.dll
+D:\C# Fundamentals\BasicSyntax\05.MonthPrinter\obj\Debug\netcoreapp3.1\05.MonthPrinter.pdb
+D:\C# Fundamentals\BasicSyntax\05.MonthPrinter\obj\Debug\netcoreapp3.1\05.MonthPrinter.genruntimeconfig.cache

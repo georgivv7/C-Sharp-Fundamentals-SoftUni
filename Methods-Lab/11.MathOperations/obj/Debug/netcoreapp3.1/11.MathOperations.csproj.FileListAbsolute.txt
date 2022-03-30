@@ -1,0 +1,12 @@
+D:\C# Fundamentals\Methods-Lab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.exe
+D:\C# Fundamentals\Methods-Lab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.deps.json
+D:\C# Fundamentals\Methods-Lab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.runtimeconfig.json
+D:\C# Fundamentals\Methods-Lab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.runtimeconfig.dev.json
+D:\C# Fundamentals\Methods-Lab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.dll
+D:\C# Fundamentals\Methods-Lab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.pdb
+D:\C# Fundamentals\Methods-Lab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Methods-Lab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.AssemblyInfo.cs
+D:\C# Fundamentals\Methods-Lab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Methods-Lab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.dll
+D:\C# Fundamentals\Methods-Lab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.pdb
+D:\C# Fundamentals\Methods-Lab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.genruntimeconfig.cache

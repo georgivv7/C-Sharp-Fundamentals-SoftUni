@@ -1,0 +1,12 @@
+D:\C# Fundamentals\Methods-Exercise\06.MiddleChars\bin\Debug\netcoreapp3.1\06.MiddleChars.exe
+D:\C# Fundamentals\Methods-Exercise\06.MiddleChars\bin\Debug\netcoreapp3.1\06.MiddleChars.deps.json
+D:\C# Fundamentals\Methods-Exercise\06.MiddleChars\bin\Debug\netcoreapp3.1\06.MiddleChars.runtimeconfig.json
+D:\C# Fundamentals\Methods-Exercise\06.MiddleChars\bin\Debug\netcoreapp3.1\06.MiddleChars.runtimeconfig.dev.json
+D:\C# Fundamentals\Methods-Exercise\06.MiddleChars\bin\Debug\netcoreapp3.1\06.MiddleChars.dll
+D:\C# Fundamentals\Methods-Exercise\06.MiddleChars\bin\Debug\netcoreapp3.1\06.MiddleChars.pdb
+D:\C# Fundamentals\Methods-Exercise\06.MiddleChars\obj\Debug\netcoreapp3.1\06.MiddleChars.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Methods-Exercise\06.MiddleChars\obj\Debug\netcoreapp3.1\06.MiddleChars.AssemblyInfo.cs
+D:\C# Fundamentals\Methods-Exercise\06.MiddleChars\obj\Debug\netcoreapp3.1\06.MiddleChars.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Methods-Exercise\06.MiddleChars\obj\Debug\netcoreapp3.1\06.MiddleChars.dll
+D:\C# Fundamentals\Methods-Exercise\06.MiddleChars\obj\Debug\netcoreapp3.1\06.MiddleChars.pdb
+D:\C# Fundamentals\Methods-Exercise\06.MiddleChars\obj\Debug\netcoreapp3.1\06.MiddleChars.genruntimeconfig.cache

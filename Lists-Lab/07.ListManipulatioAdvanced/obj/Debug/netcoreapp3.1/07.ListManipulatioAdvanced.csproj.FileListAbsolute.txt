@@ -1,0 +1,13 @@
+D:\C# Fundamentals\Lists-Lab\07.ListManipulatioAdvanced\bin\Debug\netcoreapp3.1\07.ListManipulatioAdvanced.exe
+D:\C# Fundamentals\Lists-Lab\07.ListManipulatioAdvanced\bin\Debug\netcoreapp3.1\07.ListManipulatioAdvanced.deps.json
+D:\C# Fundamentals\Lists-Lab\07.ListManipulatioAdvanced\bin\Debug\netcoreapp3.1\07.ListManipulatioAdvanced.runtimeconfig.json
+D:\C# Fundamentals\Lists-Lab\07.ListManipulatioAdvanced\bin\Debug\netcoreapp3.1\07.ListManipulatioAdvanced.runtimeconfig.dev.json
+D:\C# Fundamentals\Lists-Lab\07.ListManipulatioAdvanced\bin\Debug\netcoreapp3.1\07.ListManipulatioAdvanced.dll
+D:\C# Fundamentals\Lists-Lab\07.ListManipulatioAdvanced\bin\Debug\netcoreapp3.1\07.ListManipulatioAdvanced.pdb
+D:\C# Fundamentals\Lists-Lab\07.ListManipulatioAdvanced\obj\Debug\netcoreapp3.1\07.ListManipulatioAdvanced.csprojAssemblyReference.cache
+D:\C# Fundamentals\Lists-Lab\07.ListManipulatioAdvanced\obj\Debug\netcoreapp3.1\07.ListManipulatioAdvanced.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Lists-Lab\07.ListManipulatioAdvanced\obj\Debug\netcoreapp3.1\07.ListManipulatioAdvanced.AssemblyInfo.cs
+D:\C# Fundamentals\Lists-Lab\07.ListManipulatioAdvanced\obj\Debug\netcoreapp3.1\07.ListManipulatioAdvanced.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Lists-Lab\07.ListManipulatioAdvanced\obj\Debug\netcoreapp3.1\07.ListManipulatioAdvanced.dll
+D:\C# Fundamentals\Lists-Lab\07.ListManipulatioAdvanced\obj\Debug\netcoreapp3.1\07.ListManipulatioAdvanced.pdb
+D:\C# Fundamentals\Lists-Lab\07.ListManipulatioAdvanced\obj\Debug\netcoreapp3.1\07.ListManipulatioAdvanced.genruntimeconfig.cache

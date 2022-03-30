@@ -1,0 +1,13 @@
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\01. ActivationKeys\bin\Debug\netcoreapp3.1\01. ActivationKeys.exe
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\01. ActivationKeys\bin\Debug\netcoreapp3.1\01. ActivationKeys.deps.json
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\01. ActivationKeys\bin\Debug\netcoreapp3.1\01. ActivationKeys.runtimeconfig.json
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\01. ActivationKeys\bin\Debug\netcoreapp3.1\01. ActivationKeys.runtimeconfig.dev.json
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\01. ActivationKeys\bin\Debug\netcoreapp3.1\01. ActivationKeys.dll
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\01. ActivationKeys\bin\Debug\netcoreapp3.1\01. ActivationKeys.pdb
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\01. ActivationKeys\obj\Debug\netcoreapp3.1\01. ActivationKeys.csprojAssemblyReference.cache
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\01. ActivationKeys\obj\Debug\netcoreapp3.1\01. ActivationKeys.AssemblyInfoInputs.cache
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\01. ActivationKeys\obj\Debug\netcoreapp3.1\01. ActivationKeys.AssemblyInfo.cs
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\01. ActivationKeys\obj\Debug\netcoreapp3.1\01. ActivationKeys.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\01. ActivationKeys\obj\Debug\netcoreapp3.1\01. ActivationKeys.dll
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\01. ActivationKeys\obj\Debug\netcoreapp3.1\01. ActivationKeys.pdb
+D:\C# Fundamentals\05. ProgrammingFundamentals-FinalExam\01. ActivationKeys\obj\Debug\netcoreapp3.1\01. ActivationKeys.genruntimeconfig.cache

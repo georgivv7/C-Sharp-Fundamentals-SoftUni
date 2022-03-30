@@ -1,0 +1,13 @@
+D:\C# Fundamentals\Metods-More-Exercise\02.CenterPoint\bin\Debug\netcoreapp3.1\02.CenterPoint.exe
+D:\C# Fundamentals\Metods-More-Exercise\02.CenterPoint\bin\Debug\netcoreapp3.1\02.CenterPoint.deps.json
+D:\C# Fundamentals\Metods-More-Exercise\02.CenterPoint\bin\Debug\netcoreapp3.1\02.CenterPoint.runtimeconfig.json
+D:\C# Fundamentals\Metods-More-Exercise\02.CenterPoint\bin\Debug\netcoreapp3.1\02.CenterPoint.runtimeconfig.dev.json
+D:\C# Fundamentals\Metods-More-Exercise\02.CenterPoint\bin\Debug\netcoreapp3.1\02.CenterPoint.dll
+D:\C# Fundamentals\Metods-More-Exercise\02.CenterPoint\bin\Debug\netcoreapp3.1\02.CenterPoint.pdb
+D:\C# Fundamentals\Metods-More-Exercise\02.CenterPoint\obj\Debug\netcoreapp3.1\02.CenterPoint.csprojAssemblyReference.cache
+D:\C# Fundamentals\Metods-More-Exercise\02.CenterPoint\obj\Debug\netcoreapp3.1\02.CenterPoint.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Metods-More-Exercise\02.CenterPoint\obj\Debug\netcoreapp3.1\02.CenterPoint.AssemblyInfo.cs
+D:\C# Fundamentals\Metods-More-Exercise\02.CenterPoint\obj\Debug\netcoreapp3.1\02.CenterPoint.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Metods-More-Exercise\02.CenterPoint\obj\Debug\netcoreapp3.1\02.CenterPoint.dll
+D:\C# Fundamentals\Metods-More-Exercise\02.CenterPoint\obj\Debug\netcoreapp3.1\02.CenterPoint.pdb
+D:\C# Fundamentals\Metods-More-Exercise\02.CenterPoint\obj\Debug\netcoreapp3.1\02.CenterPoint.genruntimeconfig.cache

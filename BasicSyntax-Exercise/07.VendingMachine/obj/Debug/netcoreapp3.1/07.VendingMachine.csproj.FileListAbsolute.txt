@@ -1,0 +1,13 @@
+D:\C# Fundamentals\BasicSyntax-Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.exe
+D:\C# Fundamentals\BasicSyntax-Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.deps.json
+D:\C# Fundamentals\BasicSyntax-Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.runtimeconfig.json
+D:\C# Fundamentals\BasicSyntax-Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.runtimeconfig.dev.json
+D:\C# Fundamentals\BasicSyntax-Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.dll
+D:\C# Fundamentals\BasicSyntax-Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.pdb
+D:\C# Fundamentals\BasicSyntax-Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.AssemblyInfoInputs.cache
+D:\C# Fundamentals\BasicSyntax-Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.AssemblyInfo.cs
+D:\C# Fundamentals\BasicSyntax-Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\BasicSyntax-Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.dll
+D:\C# Fundamentals\BasicSyntax-Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.pdb
+D:\C# Fundamentals\BasicSyntax-Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.genruntimeconfig.cache
+D:\C# Fundamentals\BasicSyntax-Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.csprojAssemblyReference.cache

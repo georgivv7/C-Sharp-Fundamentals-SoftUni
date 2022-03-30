@@ -1,0 +1,13 @@
+D:\C# Fundamentals\Metods-More-Exercise\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.exe
+D:\C# Fundamentals\Metods-More-Exercise\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.deps.json
+D:\C# Fundamentals\Metods-More-Exercise\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.runtimeconfig.json
+D:\C# Fundamentals\Metods-More-Exercise\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.runtimeconfig.dev.json
+D:\C# Fundamentals\Metods-More-Exercise\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.dll
+D:\C# Fundamentals\Metods-More-Exercise\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.pdb
+D:\C# Fundamentals\Metods-More-Exercise\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.csprojAssemblyReference.cache
+D:\C# Fundamentals\Metods-More-Exercise\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Metods-More-Exercise\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.AssemblyInfo.cs
+D:\C# Fundamentals\Metods-More-Exercise\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Metods-More-Exercise\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.dll
+D:\C# Fundamentals\Metods-More-Exercise\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.pdb
+D:\C# Fundamentals\Metods-More-Exercise\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.genruntimeconfig.cache
